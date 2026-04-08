@@ -2,7 +2,8 @@
 
 -npm create vite@latest
 -configured TailwindCSS
-
+-Header
+-Login form
 
 
 # Features
